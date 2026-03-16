@@ -12,9 +12,7 @@ const VALID_SEGMENTS = [
   'corporativo',
   'hidroclean',
   'offshore',
-  'bunker',
-  'navemestra',
-  'estaleiro'
+  'bunker'
 ];
 
 const VALIDATION_RULES = {
