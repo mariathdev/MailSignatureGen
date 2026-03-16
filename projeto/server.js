@@ -9,10 +9,10 @@ const PORT   = 3000;
 const HOST   = '0.0.0.0';
 
 const VALID_SEGMENTS = [
-  'corporativo',
+  'navemestra',
   'hidroclean',
   'offshore',
-  'bunker'
+  'estaleiro'
 ];
 
 const VALIDATION_RULES = {
